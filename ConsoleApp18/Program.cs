@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("hggjfghfcghfgh");
+            char[] chars = { 'a', 'b', 'c', };
+            if( chars == null ) { }
         }
     }
 }
